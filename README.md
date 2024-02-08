@@ -1,7 +1,7 @@
 # beattheclock
 This is the repository for our LionJam 2024 game.
 
-## **Game Plan - “Beat the Clock”**
+## **Game Plan**
 	
 ### <br>Exposition:
 	You are the sole defender of an isolated town. 
