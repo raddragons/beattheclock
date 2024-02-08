@@ -1,14 +1,12 @@
 # beattheclock
 This is the repository for our LionJam 2024 game.
 
-## **Game Plan**
-	
+## **Game Plan**	
 ### <br>Exposition:
 	You are the sole defender of an isolated town. 
 	At evenly-spaced intervals, the Grandfather Clock attacks.
 	You must stave him off for as long as possible, upgrading your weapons whenever possible.
-	Will you be able to beat the clock and save the town for good?
-  
+	Will you be able to beat the clock and save the town for good?  
 ### Main Mechanics:
 	You get X amount of time; you must balance it between battle prep and boss fighting
     		Your time does not reset when you go to fight the boss
@@ -26,7 +24,6 @@ This is the repository for our LionJam 2024 game.
   	Boss info:
 	- Grandfather clock
 	- Returns more powerful for each successive battle
-
 ### Nice-to-Have Mechanics to Discuss Further:
 	Upgrading your skills more reduces the time it takes to perform the skill during battle
  		E.g. an attack that by default takes 3 seconds could be upgraded to take 1 second
@@ -37,17 +34,14 @@ This is the repository for our LionJam 2024 game.
 ## **Preliminary Brainstorming**
   ### Visual novel
   	3 minutes to find the criminal
-   	Single playthrough type of game
-  
+   	Single playthrough type of game 
   ### Roguelite
   	Binding of Isaac/Moonlighter style
-  
   ### 2D Platformer
   	3 minutes mechanic to increase difficulty level of the game
    	"Bomb diffusing"
     	Every 3 minutes, a platform explodes
      	Collecting time to prevent platforms from exploding 
-  
   ### Top-down dungeon style
   	Time as currency
    		Beast comes to attack a town at even intervals, you must continue defending the town
