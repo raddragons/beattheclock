@@ -13,7 +13,7 @@ This is the repository for our LionJam 2024 game.
 	You get X amount of time; you must balance it between battle prep and boss fighting
     		Your time does not reset when you go to fight the boss
 	In-game time will go down by Y amount when you forge a weapon
-     	The more powerful the weapon, the more in-game time you lose
+ 	The more powerful the weapon, the more in-game time you lose
 	You will lose any time spent idle/deciding, but at a slower rate (in-game time is not 1:1 with real time)
 	If you do not defeat the boss within the X amount of time, you lose
 	If you defeat the boss with any time to spare, you will receive //some sort of bonus//
