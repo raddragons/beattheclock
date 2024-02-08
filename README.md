@@ -12,18 +12,18 @@ LionJam 2024
 ### Main Mechanics:
 	You get X amount of time; you must balance it between battle prep and boss fighting
     		Your time does not reset when you go to fight the boss)
-      In-game time will go down by Y amount when you forge a weapon
+	In-game time will go down by Y amount when you forge a weapon
      	The more powerful the weapon, the more in-game time you lose
-      You will lose any time spent idle/deciding, but at a slower rate (in-game time is not 1:1 with real time)
-      If you do not defeat the boss within the X amount of time, you lose
-      If you defeat the boss with any time to spare, you will receive //some sort of bonus//
-      Weapon ideas:
+	You will lose any time spent idle/deciding, but at a slower rate (in-game time is not 1:1 with real time)
+	If you do not defeat the boss within the X amount of time, you lose
+	If you defeat the boss with any time to spare, you will receive //some sort of bonus//
+	Weapon ideas:
 	- Minute hand sword
 	- Hourglass hammer
 	- Ball-and-chain pocket watch
- Boss info:
-	    - Grandfather clock
-	    - Returns more powerful for each successive battle
+ 	Boss info:
+	- Grandfather clock
+	- Returns more powerful for each successive battle
 
 ### Nice-to-Have Mechanics to Discuss Further:
     <br>- Upgrading your skills more reduces the time it takes to perform the skill during battle
