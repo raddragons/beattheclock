@@ -29,30 +29,30 @@ LionJam 2024
       <br>- E.g. an attack that by default takes 3 seconds could be upgraded to take 1 second
     <br>- Side-dungeons attached to the prep area
     <br>- MC gets older each battle
+    <br>- Random generation of side-dungeons?
 
 **Preliminary Brainstorming**
 
   Visual novel
-    - 3 minutes to find the criminal
-    - Single playthrough type of game
+    <br>- 3 minutes to find the criminal
+    <br>- Single playthrough type of game
 
   Roguelite
-    - Binding of Isaac/Moonlighter style
+    <br>- Binding of Isaac/Moonlighter style
 
   2D Platformer
-    - 3 minutes mechanic to increase difficulty level of the game
-    - "Bomb diffusing"
-      - Every 3 minutes, a platform explodes
-      - Collecting time to prevent platforms from exploding
+    <br>- 3 minutes mechanic to increase difficulty level of the game
+    <br>- "Bomb diffusing"
+      <br>- Every 3 minutes, a platform explodes
+      <br>- Collecting time to prevent platforms from exploding
   
   Top-down dungeon style
-    - Time as currency
-      - Beast comes to attack a town at even intervals, you must continue defending the town
-      - Budget your time in order to get past a certain point
-      - Time merchants that produce your weapons and present sidequests
-          - Choose between helping people or buying weapons
-      - Random generation?
-    - Super hot
-      - When you’re not moving, time is slow
-    - Super speed
-      - For 3 minutes, you have a power that has to do with time
+    <br>- Time as currency
+      <br>- Beast comes to attack a town at even intervals, you must continue defending the town
+      <br>- Budget your time in order to get past a certain point
+      <br>- Time merchants that produce your weapons and present sidequests
+          <br>- Choose between helping people or buying weapons
+    <br>- Super hot
+      <br>- When you’re not moving, time is slow
+    <br>- Super speed
+      <br>- For 3 minutes, you have a power that has to do with time
