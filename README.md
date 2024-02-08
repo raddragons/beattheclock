@@ -1,5 +1,5 @@
 # beattheclock
-LionJam 2024
+This is the repository for our LionJam 2024 game.
 
 ## **Game Plan - “Beat the Clock”**
 	
