@@ -4,10 +4,10 @@ LionJam 2024
 ## **Game Plan - “Beat the Clock”**
 	
 ### <br>Exposition:
-You are the sole defender of an isolated town. 
-    <br>At evenly-spaced intervals, the Grandfather Clock attacks.
-    <br>You must stave him off for as long as possible, upgrading your weapons whenever possible.
-    <br>Will you be able to beat the clock and save the town for good?
+	You are the sole defender of an isolated town. 
+	At evenly-spaced intervals, the Grandfather Clock attacks.
+	You must stave him off for as long as possible, upgrading your weapons whenever possible.
+	Will you be able to beat the clock and save the town for good?
   
 ### Main Mechanics:
     <br>- You get X amount of time; you must balance it between battle prep and boss fighting
