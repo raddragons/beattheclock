@@ -18,12 +18,12 @@ LionJam 2024
       If you do not defeat the boss within the X amount of time, you lose
       If you defeat the boss with any time to spare, you will receive //some sort of bonus//
       Weapon ideas:
- 	Minute hand sword
-  	Hourglass hammer
-   	Ball-and-chain pocket watch
-    Boss info:
-    	Grandfather clock
-     	Returns more powerful for each successive battle
+	- Minute hand sword
+	- Hourglass hammer
+	- Ball-and-chain pocket watch
+ Boss info:
+	    - Grandfather clock
+	    - Returns more powerful for each successive battle
 
 ### Nice-to-Have Mechanics to Discuss Further:
     <br>- Upgrading your skills more reduces the time it takes to perform the skill during battle
