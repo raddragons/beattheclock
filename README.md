@@ -2,7 +2,7 @@
 This is the repository for our LionJam 2024 game.
 
 ## **Game Plan**	
-### <br>Exposition:
+### Exposition:
 	You are the sole defender of an isolated town. 
 	At evenly-spaced intervals, the Grandfather Clock attacks.
 	You must stave him off for as long as possible, upgrading your weapons whenever possible.
